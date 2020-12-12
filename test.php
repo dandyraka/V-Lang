@@ -1,6 +1,6 @@
 <?php
 
-include "vlang.class.php";
+include "Class/vlang.class.php";
 
 $Vlang          = new Vlang();
 $Vlang->text    = "bengek hyung";
